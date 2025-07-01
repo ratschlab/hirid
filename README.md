@@ -6,8 +6,8 @@ It was first released as part of the [circulatory Early Warning Score](https://w
 
 More in detail the documentation contains the following sections of interest:
 - [Getting started](https://hirid.intensivecare.ai/getting-started) This first section points to a jupyter notebook to familiarize yourself with the data.
-- [Data details](https://hirid.intensivecare.ai/data-details) This second section contains a description of the variables existing in the dataset. To complete this section you can refer to our [varref.tsv](preprocessing/resources/varref.tsv) which we use to build the common version of the data.
-- [Structure of the published data](https://hirid.intensivecare.ai/structure-of-the-published-data) This final section contains details about the structure of the raw data you will have to download and place in `hirid-data-root` folder (see "Run Pre-Processing").
+- [Data details](https://hirid.intensivecare.ai/data-details) This second section contains a description of the variables existing in the dataset. 
+- [Structure of the published data](https://hirid.intensivecare.ai/structure-of-the-published-data) This final section contains details about the structure of the raw data.
 
 ## Download Data
 
